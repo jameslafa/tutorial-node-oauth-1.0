@@ -1,0 +1,5 @@
+OAUTH_KEY: <your key from developer.twitter.com>
+OAUTH_SECRET: <your secret from developer.twitter.com>
+HOST: http://localhost
+SECRET: <put some random characters here so your sessions will be secure>
+#PORT: 3012
